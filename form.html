@@ -1,0 +1,168 @@
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" type="text/css" href="estilos.css" media="screen" />
+
+    <style>
+        
+         @media screen and (max-width: 770px) {
+         
+            #cabecera span {padding-bottom: 25px;}
+            
+            #enlaces a{
+                width: 95%;
+            background-color: #004d80;
+            padding-top: 10px;
+            }
+            #imgcab {width: 100%;}
+            
+             #form {width:80%; }
+           
+            
+            #red1 img{width: 25px; height: 25px; bottom: 175px;}
+            #red2 img{width: 25px; height: 25px; bottom: 150px;}
+            #red3 img{width: 25px; height: 25px; bottom: 125px;}
+            #red4 img{width: 25px; height: 25px; bottom: 100px;}
+        }
+        
+        @font-face {
+            font-family: "sk8";
+            src: url("fuentes/edosz.ttf");
+        }
+
+        @font-face {
+            font-family: "cab";
+            src: url("fuentes/titillium.otf");
+        }
+
+        @font-face {
+            font-family: "sk";
+            src: url("fuentes/sktr.otf");
+        }
+
+        @font-face {
+            font-family: "form";
+            src: url("fuentes/jack.ttf");
+        }
+
+        #form {
+
+            text-align: left;
+            font-size: 25px;
+            max-width: 890px;
+            margin: auto;
+            margin-top: 50px;
+            font-family: form;
+            border-bottom-style:ridge;
+            border-top-style: ridge;
+            border-bottom-color: #007acc;
+            border-top-color: #007acc;
+        }
+        
+        #txt{
+            text-align: center;
+            margin-top: 30px;
+            font-size: 40px;
+            font-family: form;
+            color:#004d80;
+            
+            
+        }
+
+        #f1 {float: left;}
+
+        #f2 {
+            float: left;
+            margin-left: 50px
+        }
+
+        #f3 {
+            font-family: calibri;
+            font-size: 15px;
+        }
+        #f4 {float: left;}
+        
+        #f5{float: right;}
+
+    </style>
+</head>
+
+<body>
+
+    <div id="imgcab"><img src="imagenes/banner1.png"></div>
+
+    <div id="cabecera">
+        <div id="enlaces">
+            <span>Sk8Life</span>
+
+            <a href="form.html">REGISTRATE</a>
+            <a href="skatepark.html">SKATEPARKS</a>
+            <a href="eventos.html">EVENTOS</a>
+            <a href="noticias.html">NOTICIAS</a>
+            <a href="index.html" title="Ir al inicio"><img src="imagenes/inicio.png"></a>
+
+        </div>
+    </div>
+    
+    <div id="txt">REGISTRO</div>
+
+    <div id="form">
+        
+    <form>
+        
+        <br><br>
+        <div id="f1">
+            Nombre<br>
+            <input style="height:35px" type="text"  placeholder="Introduzca Nombre" required size="55" >
+        </div>
+
+        <div id="f2">
+            Apellidos<br>
+            <input style="height:35px" type="text"  placeholder="Introduzca Apellidos" required size="55">
+        </div>
+
+        <br><br><br> Email
+        <br>
+        <input style="height:35px" type="email" placeholder="introduzca email" size="55" required>
+        <br><br>
+         Contraseña
+        <br>
+        <input style="height:35px" type="password" placeholder="contraseña" size="40" required>
+        <br><br>
+
+        <div id="f3"><input type="checkbox">Recordarme</div>
+        <br>
+
+        <div id="f4">
+        <input style="height:35px; width: 100px;" type="submit" value="Registrarse">
+        </div>
+        
+        <div id="f5">
+        <input style="height:35px; width: 100px" type="reset" value="Borrar">
+        </div>
+        
+        <br><br><br>    
+
+    </form>
+
+    </div>    
+    
+          <div id="red1"><a href="https://www.facebook.com/" target="_blank" title="Facebook"><img src="imagenes/facebookk.png"></a></div>
+    
+        <div id="red3"><a href="https://instagram.com/" target="_blank" title="Instagram"><img src="imagenes/instagram.png"></a></div>
+    
+        <div id="red2"><a href="https://www.twitter.com/" target="_blank" title="Twitter"><img src="imagenes/twitter.png"></a></div>
+        
+        <div id="red4"><a href="https://www.youtube.com/" target="_blank" title="Youtube"><img src="imagenes/youtube.png"></a></div>     
+    
+    
+        <div id="red5"><a href="rss.xml" target="_blank" title="Rss"><img src="imagenes/rssicon.png"></a></div> 
+    
+
+
+</body>
+
+</html>

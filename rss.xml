@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    
+    <channel>
+        
+        <title>Lo &#250;ltimo sobre el skate</title>
+        <link>https://sk8land.000webhostapp.com</link>
+        <image>
+          <url>
+          http://www.sk8land.com/images/background/logo.png
+          </url>
+          <link>https://sk8land.000webhostapp.com</link>
+          <title>Lo &#250;ltimo sobre el skate</title>
+        </image>
+        <atom:link href="https://sk8land.000webhostapp.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <description>Todo lo ultimo sobre eventos, skateparks y noticias del Patin</description>
+        <language>es-es</language>
+        
+        <item>
+            <title>Ultimas noticias</title>
+            <link>https://sk8land.000webhostapp.com/index.html</link>
+            <guid>https://sk8land.000webhostapp.com/index.html</guid>
+            <description>
+              <![CDATA[
+              <table cellspacing=5> <tr> <td style='border: 1px solid gray ; padding: 1px'>
+              <img src="http://e00-expansion.uecdn.es/assets/multimedia/imagenes/2018/01/05/15151658793954.jpg" width=250 height=150></td> 
+              <td valign=top>La primera tienda dedicada al monopat&#237;n 
+              en Madrid abri&#243; sus puertas en 1975, a&#241;o en el que su responsable regres&#243; de EEUU para convertirse en referente del deporte urbano en Espa&#241;a. 
+              Jos&#233; Antonio Mu&#241;oz lleva toda una vida desliz&#225;ndose sobre ruedas por las calles de Madrid. Lo que empez&#243; como una afici&#243;n adolescente se ha convertido 
+              en su oficio gracias a Caribbean Shop, la primera tienda de monopatines que abri&#243; sus puertas... </table>]]>
+            </description>
+            <pubDate>Wed, 02 May 2018 12:00:00 GMT</pubDate>
+            <author>isaacbarredo@gmail.com</author>
+        </item>
+        
+        <item>
+            <title>Eventos</title>
+            <link>http://sk8land.000webhostapp.com/eventos.html</link>
+            <guid>http://sk8land.000webhostapp.com/eventos.html</guid>
+            <description><![CDATA[
+              <table cellspacing=5> <tr> <td style='border: 1px solid gray ; padding: 1px'>
+              <img src="https://sk8land.000webhostapp.com/imagenes/beskate.jpg" width=152 height=260></td> 
+              <td valign=top>Campeonato BeSakte.
+            El 24 febrero se organiza un campeonato de skate llamado BE SKATE en Galdakao. 
+            Colabora el Skate Club Miranda y presenta Jos&#233; V&#225;zquez "el Andaluz". </table>]]></description>
+            <pubDate>Wed, 18 Apr 2018 09:00:00 GMT</pubDate>
+            <author>isaacbarredo@gmail.com</author>
+        </item>
+        
+         <item>
+            <title>Skateparks</title>
+            <link>http://sk8land.000webhostapp.com/skatepark.html</link>
+            <guid>http://sk8land.000webhostapp.com/skatepark.html</guid>
+            <description><![CDATA[
+              <table cellspacing=5> <tr> <td style='border: 1px solid gray ; padding: 1px'>
+              <img src="https://sk8land.000webhostapp.com/imagenes/tetuan.jpg" width=290 height=180></td> 
+              <td valign=top>SkatePlaza Tetuan. La skateplaza de Madrid se encuentra en el distrito de Tetu&#225;n, en el parque de Rodr&#237;guez Sahag&#250;n para ser m&#225;s exactos. 
+            Para llegar a ella en transporte p&#250;blico lo mejor es bajarte en el metro de Valdezarza o Antonio Machado (linea 7) y preguntar por el parque, 
+            tambi&#233;n puedes hacerlo en Ventilla o Valdeacederas depende de la linea que te venga bien. </table>]]></description>
+            <pubDate>Mon, 16 Apr 2018 11:00:00 GMT</pubDate>
+            <author>isaacbarredo@gmail.com</author>
+        </item>
+        
+    </channel>
+</rss>
